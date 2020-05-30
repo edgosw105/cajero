@@ -80,6 +80,8 @@ function sacarDinero()
           billetesEntregados = []; //Vacio la variable
         }
     }
+
+    valorRetiro.value = ""; 
   }
 
 }
